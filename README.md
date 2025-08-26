@@ -1,4 +1,4 @@
-# Laravel-API-REST-
+Laravel REST API – Products (Prueba Técnica)
 
 API REST para gestión de productos con autenticación por API Key (X-API-KEY), CRUD completo, validaciones, filtros y paginación.
 
